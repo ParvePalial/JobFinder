@@ -17,7 +17,10 @@ cd JobFinder
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
+```
+
 ### 3️⃣ Install Dependencies
+```python3
 pip install -r requirements.txt
 ```
 
@@ -25,17 +28,3 @@ pip install -r requirements.txt
 ```python3
 python emailfinder.py -writecompanysitehere.com
 ```
-
-## 🤝 Contributing
-Fork the repo
-
-Create a new branch (git checkout -b feature-branch)
-
-Commit your changes (git commit -m "Added new feature")
-
-Push to GitHub (git push origin feature-branch)
-
-Create a pull request
-
-## 📜 License
-This project is licensed under the MIT License.
