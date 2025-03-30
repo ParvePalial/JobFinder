@@ -1,54 +1,27 @@
-# JobFinder
+# 🚀 JobFinder
 Find email accounts, lnkedin information of employees, and increase your networks..
 
-# 🚀 Project Name
-
-> A short description of what your project does.
-
 ## 🌟 Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-## 📂 Project Structure
-📁 project-name/ │-- 📁 src/ # Source code │-- 📁 tests/ # Test files │-- 📄 requirements.txt # Dependencies │-- 📄 README.md # Project documentation │-- 📄 main.py # Main script
+- ✅ Email Extraction
+- ✅ Email Automator
+- ✅ Job Postings
 
 ## 🔧 Installation & Setup
-### **1️⃣ Clone the Repository**
+### 1️⃣ Clone the Repository**
 
-git clone https://github.com/yourusername/project-name.git
-cd project-name
-2️⃣ Create a Virtual Environment (Optional but Recommended)
-sh
-Copy
-Edit
+git clone https://github.com/parvepalial/JobFinder.git
+cd JobFinder
+### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
-3️⃣ Install Dependencies
-sh
-Copy
-Edit
+### 3️⃣ Install Dependencies
 pip install -r requirements.txt
-🚀 Running the Project
-sh
-Copy
-Edit
-python main.py
-🛠️ Running Tests
-sh
-Copy
-Edit
-pytest tests/
-📜 Environment Variables (If Needed)
-Create a .env file and add:
 
-env
-Copy
-Edit
-API_KEY=your_api_key
-DEBUG=True
-🤝 Contributing
+##🚀 Running the Project
+python emailfinder.py -writecompanysitehere.com
+
+##🤝 Contributing
 Fork the repo
 
 Create a new branch (git checkout -b feature-branch)
@@ -59,5 +32,5 @@ Push to GitHub (git push origin feature-branch)
 
 Create a pull request
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
