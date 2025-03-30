@@ -1,4 +1,4 @@
-# 🚀 JobFinder
+# JobFinder
 Find email accounts, lnkedin information of employees, and increase your networks..
 if you want to send cold emails to many companies at once we got you covered, also keep updated on the jobpostings and the time of opening
 
