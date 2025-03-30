@@ -18,10 +18,10 @@ venv\Scripts\activate     # On Windows
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-##🚀 Running the Project
+## 🚀 Running the Project
 python emailfinder.py -writecompanysitehere.com
 
-##🤝 Contributing
+## 🤝 Contributing
 Fork the repo
 
 Create a new branch (git checkout -b feature-branch)
