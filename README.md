@@ -1,5 +1,6 @@
 # 🚀 JobFinder
 Find email accounts, lnkedin information of employees, and increase your networks..
+if you want to send cold emails to many companies at once we got you covered, also keep updated on the jobpostings and the time of opening
 
 ## 🌟 Features
 - ✅ Email Extraction
@@ -26,5 +27,11 @@ pip install -r requirements.txt
 
 ## 🚀 Running the Project
 ```python3
-python emailfinder.py -writecompanysitehere.com
+python emailfinder.py writecompanysitehere.com
+#or use
+python3 emailfinder.py writecompanysitehere.com
+```
+if you have mulitple sites then save it in sites.txt with or without comma sepeartions and run
+```python3
+python emailfinder.py -f sites.txt
 ```
